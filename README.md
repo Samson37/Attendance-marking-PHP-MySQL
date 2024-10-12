@@ -1,1 +1,1 @@
-# Attendance-amrking-PHP-MySQL
+# Attendance-marking-PHP-MySQL
